@@ -1,10 +1,12 @@
-The Rainbow
+The Rainbow and the Unicron
 
 purple
 pink 
 orange
 blue
 green
+unicron
 yellow
 red
 These are the colors of the rainbow.
+And the unicron.
